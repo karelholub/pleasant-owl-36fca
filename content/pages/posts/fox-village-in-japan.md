@@ -1,6 +1,6 @@
 ---
 title: Optické měření tepu
-subtitle: Je to jenom marketing
+subtitle: Je to jenom marketing?
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
