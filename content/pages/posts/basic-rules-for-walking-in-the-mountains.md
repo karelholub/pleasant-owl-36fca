@@ -1,9 +1,10 @@
 ---
 title: Závodíme a soutěžíme virtuálně
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Když chce člověk závodit, přihlásí se na závod a jde závodit. Tedy tak tomu
+  aspoň bývalo v dobách, kdy nebylo všechno pod PSA. Jaké možnosti závodit má
+  člověk teď? Pojďme se projít světem aplikací a způsobů, jak vás mohou
+  motivovat k ještě lepším výkonům.
 date: '2021-04-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
