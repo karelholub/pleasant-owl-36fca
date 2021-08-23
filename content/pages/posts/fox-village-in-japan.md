@@ -2,11 +2,11 @@
 title: Optické měření tepu
 subtitle: Je to jenom marketing?
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Využíváte k tréninku měření tepové frekvence a spoléháte se na údaje z
+  optického měření? Možná byste neměli. Nespornou výhodou optického měření tepu
+  je to, že nepotřebujete žádné další zařízení kromě hodinek se senzorem. Měření
+  tak může běžet celou dobu, po kterou máte hodinky na ruce a můžete sbírat
+  údaje ve dne v noci. Pojďme se ale podívat, jak přesné tyto údaje jsou.
 date: '2021-05-19'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
