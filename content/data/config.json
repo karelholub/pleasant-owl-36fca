@@ -7,7 +7,7 @@
         "tagline": "Povídání nejen o běhání",
         "logo_img": "images/logo_transparent.png",
         "logo_img_alt": "Logo",
-        "background_img": "/images/home-profil.jpeg",
+        "background_img": "/images/home-new.jpg",
         "has_nav": true,
         "nav_links": [
             {
@@ -51,5 +51,5 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://pleasant-owl-36fca.netlify.app"
+    "domain": "https://bezimdokudmuzu.cz"
 }

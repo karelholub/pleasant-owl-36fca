@@ -6,6 +6,7 @@ excerpt: >-
 date: '2021-08-15'
 thumb_img_path: images/8.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
+hide_header: true
 content_img_path: images/8.jpg
 seo:
   title: Garmin a mapy.cz

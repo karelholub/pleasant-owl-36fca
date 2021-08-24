@@ -15,7 +15,7 @@ export default class Home extends React.Component {
         const excerpt = _.get(post, 'excerpt');
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%B %d, %Y');
+        const formattedDate = moment(date).strftime('%d.%m, %Y');
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
@@ -25,7 +25,7 @@ export default class Home extends React.Component {
                         <Link href={postUrl}>{title}</Link>
                     </h2>
                     <div className="post-meta">
-                        Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                        Vyšlo <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                     </div>
                 </header>
                 {thumbImage && (

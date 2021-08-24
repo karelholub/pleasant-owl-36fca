@@ -9,6 +9,7 @@ date: '2021-04-09'
 thumb_img_path: images/virtualni-zavody/2.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/virtualni-zavody/2.jpg
+hide_header: true
 seo:
   title: Virtuální závody, soutěže a výzvy
   description: >-
