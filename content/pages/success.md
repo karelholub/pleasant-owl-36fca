@@ -1,8 +1,8 @@
 ---
-title: Thank You!
+title: Díky za důvěru!
 layout: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Děkuji a doufám, že vás bude i nadále bavit moje povídání nejen o běhání.
 
-**Have a great day!**
+**SKOL!**

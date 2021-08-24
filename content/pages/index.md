@@ -1,19 +1,19 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Čti dál
 seo:
-  title: Stackbit Fjord Theme
-  description: The preview of the Fjord theme
+  title: Běžím dokud můžu
+  description: Povídání o běhání, ultra, závodech a technice pro běžce i neběžce
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fjord Theme
+      value: Běžím dokud můžu
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: Povídání o běhání, ultra, závodech a technice pro běžce i neběžce
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: Běžím dokud můžu
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: Povídání o běhání, ultra, závodech a technice pro běžce i neběžce
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true

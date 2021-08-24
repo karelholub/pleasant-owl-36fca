@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Připojte se k odběru
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
@@ -7,12 +7,12 @@ form_fields:
   - input_type: text
     name: name
     label: Name
-    default_value: Your name
+    default_value: Jméno
     is_required: true
   - input_type: email
     name: email
     label: Email
-    default_value: Your email address
+    default_value: email
     is_required: true
   - input_type: select
     name: subject
