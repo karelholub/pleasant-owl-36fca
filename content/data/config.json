@@ -5,24 +5,14 @@
     "header": {
         "title": "Běžím dokud můžu",
         "tagline": "Povídání nejen o běhání",
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/logo_transparent.png",
         "logo_img_alt": "Logo",
-        "background_img": "/images/profil.jpg",
+        "background_img": "/images/home-profil.jpeg",
         "has_nav": true,
         "nav_links": [
             {
                 "label": "Domů",
                 "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Kdo jsem",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Kontakt",
-                "url": "/contact",
                 "style": "link"
             }
         ],
@@ -33,6 +23,20 @@
                 "url": "https://twitter.com/karH79",
                 "style": "icon",
                 "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/behembehu/",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true
+            },
+            {
+                "label": "Starva",
+                "url": "https://www.strava.com/athletes/3959594",
+                "style": "icon",
+                "icon_class": "strava",
                 "new_window": true
             },
             {
