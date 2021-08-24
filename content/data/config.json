@@ -1,32 +1,27 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Běžím dokud můžu",
     "path_prefix": "/",
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "Běžím dokud můžu",
+        "tagline": "Povídání nejen o běhání",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "Logo",
         "background_img": "/images/20210808_110644.jpg",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Domů",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Kdo jsem",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
+                "label": "Kontakt",
                 "url": "/contact",
                 "style": "link"
             }
@@ -35,37 +30,16 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/karH79",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/bezimdokudmuzu",
                 "style": "icon",
                 "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ]
