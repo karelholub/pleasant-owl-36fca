@@ -20,7 +20,7 @@ export default class Post extends React.Component {
         const headerImage = _.get(page, 'content_img_path') ? _.get(page, 'content_img_path') : _.get(header, 'background_img');
         const date = _.get(page, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%B %d, %Y');
+        const formattedDate = moment(date).strftime('%d.%m, %Y');
         const markdownContent = _.get(page, 'markdown_content');
 
         return (
@@ -33,7 +33,7 @@ export default class Post extends React.Component {
                             <header className="post-header">
                                 <h1 className="post-title">{title}</h1>
                                 <div className="post-meta">
-                                    Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                                    Vyšlo <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                                 </div>
                             </header>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
