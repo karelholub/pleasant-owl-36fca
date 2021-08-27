@@ -8,8 +8,8 @@ excerpt: >-
   tak může běžet celou dobu, po kterou máte hodinky na ruce a můžete sbírat
   údaje ve dne v noci. Pojďme se ale podívat, jak přesné tyto údaje jsou.
 date: '2021-05-19'
-thumb_img_path: images/10.jpg
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_path: images/optika.jpg
+thumb_img_alt: garmin fenix 3 HR
 content_img_path: images/10.jpg
 seo:
   title: Optické měření tepu

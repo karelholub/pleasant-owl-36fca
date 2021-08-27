@@ -4,8 +4,8 @@ subtitle: Jak využít mapy.cz pro lepší plánování tras s Garmin
 excerpt: >-
   Plnánování trasy pro běh, turistiku nebo výlety na kole je zase o něco jednodušší. Tedy aspoň pro uživatele mobilní aplikace Mapy.cz, která nově od verze 9.3 přináší možnost naplánovat si trasu a ve formě gpx souboru ji rovnou z mobilu přenést do hodinek. Takže klidně uprostřed lesa vytáhnete mobil, naplánujete trasu k nejbližšímu občerstvení, pošlete ji přes Garmin Connect do svých Garminů a můžete vyrazit.
 date: '2021-08-15'
-thumb_img_path: images/8.jpg
-thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
+thumb_img_path: images/mapy-garmin/mapycz.png
+thumb_img_alt: mapycz
 hide_header: true
 content_img_path: images/8.jpg
 seo:
