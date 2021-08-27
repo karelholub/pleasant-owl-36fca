@@ -10,7 +10,7 @@ excerpt: >-
 date: '2021-05-19'
 thumb_img_path: images/optika.jpg
 thumb_img_alt: garmin fenix 3 HR
-content_img_path: images/10.jpg
+content_img_path: images/optika.jpg
 seo:
   title: Optické měření tepu
   description: >-

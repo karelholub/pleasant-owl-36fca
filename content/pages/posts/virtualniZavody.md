@@ -13,8 +13,7 @@ hide_header: true
 seo:
   title: Virtuální závody, soutěže a výzvy
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    Pojďme se projít světem aplikací a způsobů, jak vás mohou motivovat k ještě lepším výkonům.
   extra:
     - name: 'og:type'
       value: article
@@ -23,9 +22,7 @@ seo:
       value: Virtuální závody, soutěže a výzvy
       keyName: property
     - name: 'og:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+      value: Pojďme se projít světem aplikací a způsobů, jak vás mohou motivovat k ještě lepším výkonům.
       keyName: property
     - name: 'og:image'
       value: images/virtualni-zavody/2.jpg
@@ -36,9 +33,7 @@ seo:
     - name: 'twitter:title'
       value: Virtuální závody, soutěže a výzvy
     - name: 'twitter:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+      value: Pojďme se projít světem aplikací a způsobů, jak vás mohou motivovat k ještě lepším výkonům.
     - name: 'twitter:image'
       value: images/virtualni-zavody/2.jpg
       relativeUrl: true
