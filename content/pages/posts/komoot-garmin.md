@@ -14,23 +14,23 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: My Way to Relax in Nature and Stress Less
+      value: Jak plánovat cesty s komoot a Garmin
       keyName: property
     - name: 'og:description'
       value: Hledáte často nové cesty a cestičky pro svoje tréninky, výlety nebo výpravy? Pak by vás mohl zajímat nástroj komoot (www.komoot.com) zaměřený právě na plánování tras pro cyklisty, běžce a turisty, kteří rádi hledají nové cesty.
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/komoot-garmin/komoot.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: My Way to Relax in Nature and Stress Less
+      value: Jak plánovat cesty s komoot a Garmin
     - name: 'twitter:description'
       value: Hledáte často nové cesty a cestičky pro svoje tréninky, výlety nebo výpravy? Pak by vás mohl zajímat nástroj komoot (www.komoot.com) zaměřený právě na plánování tras pro cyklisty, běžce a turisty, kteří rádi hledají nové cesty.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/komoot-garmin/komoot.png
       relativeUrl: true
 layout: post
 ---

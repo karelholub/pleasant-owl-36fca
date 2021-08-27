@@ -5,7 +5,8 @@ excerpt: >-
 date: '2021-02-09'
 thumb_img_path: images/altra800/1.jpg
 thumb_img_alt: altra v akci
-content_img_path: images/1.jpg
+content_img_path: images/altra800/1.jpg
+hide_header: true
 seo:
   title: Jaké jsou Altra LonePeak po 800km?
   description: >-
