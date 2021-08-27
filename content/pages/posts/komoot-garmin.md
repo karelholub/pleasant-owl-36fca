@@ -3,8 +3,8 @@ title: Jak plánovat cesty s komoot a Garmin
 subtitle: Najděte si nové cesty a cestičky s nástrojem komoot a hodinkami Garmin
 excerpt: Hledáte často nové cesty a cestičky pro svoje tréninky, výlety nebo výpravy? Pak by vás mohl zajímat nástroj komoot (www.komoot.com) zaměřený právě na plánování tras pro cyklisty, běžce a turisty, kteří rádi hledají nové cesty. 
 date: '2021-07-24'
-thumb_img_path: images/4.jpg
-thumb_img_alt: A man fishing in a lake
+thumb_img_path: images/komoot-garmin/komoot.png
+thumb_img_alt: komot
 hide_header: true
 seo:
   title: Jak plánovat cesty s komoot a Garmin

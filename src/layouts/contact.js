@@ -47,7 +47,7 @@ export default class Contact extends React.Component {
                                 >
                                     <div className="screen-reader-text">
                                         <label id={formHoneypotLabelId} htmlFor={formHoneypotInputId}>
-                                            Don't fill this out if you're human: 
+                                            Tohle je tu pro roboty, lidi vyplňovat nemusí: 
                                             <input aria-labelledby={formHoneypotLabelId} id={formHoneypotInputId} name={formHoneypotName} />
                                         </label>
                                     </div>
