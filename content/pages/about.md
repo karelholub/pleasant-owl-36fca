@@ -1,42 +1,41 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: Běžím dokud můžu
+subtitle: Kdo jsem, co dělám a proč o tom píšu
+img_path: images/home-new.jpg
 seo:
-  title: About Me
-  description: A page about me and my work
+  title: Běžím dokud můžu
+  description: Kdo jsem, co dělám a proč o tom píšu
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Běžím dokud můžu
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Kdo jsem, co dělám a proč o tom píšu
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/home-new.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Běžím dokud můžu
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: Kdo jsem, co dělám a proč o tom píšu
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/home-new.jpg
       relativeUrl: true
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Sport, zdraví a technologie.
+Píšu vytrvalostním sportu a technologiích, které jsou s ním spojené. Každý týden přináším zajímavosti ze světa výživy, zdraví a zvyšování výkonnosti a také recenze, návody a tipy na zajímavé hračičky pro aktivní lidi.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+<div>
+ <iframe src="https://karelholub.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
