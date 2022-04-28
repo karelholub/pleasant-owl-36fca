@@ -1,5 +1,5 @@
 ---
-title: Aftershokz - muzika až do moru kostí
+title: Aftershokz - muzika až do morku kostí
 subtitle: Když chcete poslouchat hudbu při běhu nebo na kole a zároveň zůstat v kontaktu s okolním světem, můžete zkusit sluchátka Aftershokz s přenosem zvuku přes lebeční kosti
 excerpt: Značka Aftershokz sice evokuje název přeslazeného pití pro teenagery, ale ve skutečnosti je to výrobce sportovních sluchátek s unikátní technologií přenosu zvuku přímo přes lebeční kosti. Výhodou tohoto způsobu vedení zvuku je, že vaše uši zůstavají nastarežené na okolní zvuky a nehrozí tak, že byste přeslechnuli za vámi jedoucí auto nebo zuřivě štěkajícího psa. 
 date: '2021-08-27'
@@ -7,14 +7,14 @@ thumb_img_path: https://www.aftershokz.cz/wp-content/uploads/2020/11/08-Table-1.
 thumb_img_alt: aftershokz openmove
 hide_header: true
 seo:
-  title: Aftershokz - muzika až do moru kostí
+  title: Aftershokz - muzika až do morku kostí
   description: Když chcete poslouchat hudbu při běhu nebo na kole a zároveň zůstat v kontaktu s okolním světem, můžete zkusit sluchátka Aftershokz s přenosem zvuku přes lebeční kosti
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Aftershokz - muzika až do moru kostí
+      value: Aftershokz - muzika až do morku kostí
       keyName: property
     - name: 'og:description'
       value: Když chcete poslouchat hudbu při běhu nebo na kole a zároveň zůstat v kontaktu s okolním světem, můžete zkusit sluchátka Aftershokz s přenosem zvuku přes lebeční kosti
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Aftershokz - muzika až do moru kostí
+      value: Aftershokz - muzika až do morku kostí
     - name: 'twitter:description'
       value: Když chcete poslouchat hudbu při běhu nebo na kole a zároveň zůstat v kontaktu s okolním světem, můžete zkusit sluchátka Aftershokz s přenosem zvuku přes lebeční kosti
     - name: 'twitter:image'
@@ -76,3 +76,7 @@ A jak je to s tím vnímáním okolí? Prostě slyšíte. Všechno. Teda všechn
 Doporučil bych je? Jo. Není to sice úplně levná záležitost a za stejnou cenu samozřejmě koupíte klasická sluchátka, která hrají lépe, ale Aftershokz OpenMove plní přesně to, co slibují a proč jsem si je pořizoval. Pokud si chcete při běhu vychutnat Bacha nebo Mozarta, běžte jinam. Pokud ale hledáte sluchátka, která jsou odolná, dobrá na poslech mluveného slova a hudební doprovod, umožní i volání a mají solidní výdrž, zkuste Aftershokz OpenMove nebo některý z jejich dalších modelů.
 
 Vyzkoušet je můžete třeba v Run4Fun a uvidíte (uslyšíte), jestli vám sednou.
+
+----
+Zaujal vás článek? Přihlaste se k odběru mého newsletteru a získáte příští článek rovnou do svého emailu.
+<iframe src="https://karelholub.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
