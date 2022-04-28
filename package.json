@@ -8,7 +8,9 @@
     "develop": "next dev",
     "fetch": "sourcebit fetch",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start",
+    "lint": "eslint ./src/components/** ./src/pages/** -c .eslintrc.json --ext js,jsx",
+    "lint-fix": "eslint ./src/components/** ./src/pages/** -c .eslintrc.json --fix --ext js,jsx"
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
@@ -31,7 +33,18 @@
     "webpack": "^4.0.3"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^12.1.5",
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "babel-eslint": "^10.1.0",
     "eslint": "^8.14.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.5.0",
     "prettier": "^2.2.1"
   }
 }
