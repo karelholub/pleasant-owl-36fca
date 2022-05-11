@@ -35,6 +35,7 @@ seo:
 layout: post
 ---
 *Dr. Andrew Huberman, PhD. je profesorem neurobiologie a oftalmologie na Lékařské fakultě Stanfordovy univerzity. Jeho laboratoř se zaměřuje na nervovou regeneraci, neuroplasticitu a stavy mozku, jako je stres, soustředění, strach a optimální výkon.
+
 V této epizodě Andrew Huberman popisuje mechanismy, kterými záměrné vystavení teplu ovlivňuje tělesnou teplotu, metabolismus, zdraví srdce, produkci hormonů, regeneraci při cvičení, poznávání, náladu a dlouhověkost.*
 
 Celý rozhovor najdete tady:
@@ -54,7 +55,9 @@ Obecné pokyny pro zahájení tepelného podnětu: teplota musí být mezi 80-10
 Zjistěte, co vám vyhovuje: zvolte buď vyšší intenzitu tepla a kratší dávky, nebo nižší intenzitu tepla a delší dávky - vždy však mezi 80-100 C.
 
 Dbejte na to, abyste *nahradili vodu*, kterou v sauně ztrácíte - vypijte alespoň 2-4 dcl vody za každých 10 minut saunování.
+
 Pokud je vaším hlavním cílem při saunování zvýšení hladiny *růstového hormonu*, omezte saunování na 1× týdně nebo 1× za 10 dní - a vstupujte do sauny nalačno nebo bez jídla 2 až 3 hodiny před vstupem, abyste dosáhli maximálních přínosů.
+
 Správná aplikace lokálního tepla může skutečně změnit identitu tukových buněk v daném místě a podpořit přeměnu *bílého* tuku na *béžový* tuk
 
 ## Jak se naše tělo zahřívá?
@@ -71,6 +74,7 @@ Přechod mezi horkými a chladnými teplotami zapojuje proces zahřívání
 *Mechanismus zahřívání*: (1) kůže má neurony, které vnímají změny tepla; (2) elektrické signály jsou vysílány do míchy; (3) signály jsou vysílány do mozku - konkrétně do preoptické oblasti (POA), která vysílá signály do mozku a těla a spouští reakce chování
 
 Impuls dostat se z horkého prostředí je důsledkem komunikace POA s amygdalou a následné aktivace nadledvinek.
+
 **Upozornění**: pokud jde o chlad a ochlazování těla, je zde mnohem větší prostor pro manévrování než v případě tepla - neurony jsou na teplo poměrně citlivé a jakmile jsou poškozeny, je po nich.
 
 ## Záměrné vystavení teplu mění biologii
@@ -78,9 +82,11 @@ Impuls dostat se z horkého prostředí je důsledkem komunikace POA s amygdalou
 > "Záměrné vystavení teplu může být mocným nástrojem ke zlepšení zdraví a dlouhověkosti." <cite>Dr. Andrew Huberman</cite>
 
 Pravidelné saunování a jiné vystavování se teplu může snížit úmrtnost na kardiovaskulární příhody, mozkovou mrtvici a úmrtnost ze všech příčin
+
 Definice používání sauny: teplota mezi 80C-100C (podle toho, jak horká vám připadá), 5-20 minut za sezení, 2-7krát týdně.
 
 Při častém pobytu v sauně se lépe přizpůsobíte a budete lépe odvádět přebytečné teplo.
+
 Možnosti, pokud *nemáte přístup do sauny*: zkuste horkou vodní lázeň až po krk; oblečte si igelitový oblek (jako bojovníci, kteří se snaží shodit váhu).
 
 Přijatelná je jak mokrá, tak suchá sauna; většina *infrasaun* se dostatečně nerozpálí
@@ -92,6 +98,7 @@ Biologické změny způsobené teplem: zvyšuje se průtok krve, plazmy, zdvihov
 *Aktivace proteinů tepelného šoku* (HSP): teplo mění způsob, jakým jsou bílkoviny konfigurovány na molekulární úrovni - HSP zajišťuje, aby se buňky mozku a těla neskládaly nesprávně.
 
 *Teplo pro délku života*: teplo reguluje dráhy (FOXO3) související s opravou DNA a odstraňováním senescentních buněk.
+
 *Teplo pro zlepšení metabolismu*: zdá se, že receptem je 57 minut týdně (celkem, rozložených do sezení) vystavení teplu - receptem na vystavení chladu je 11 minut rozložených do nepříjemného, ale bezpečného chladu.
 
 *Hormeze*: vystavení se dostatečnému stresu, který vyvolá určitý druh adaptace.
@@ -109,6 +116,7 @@ Pokud je zvýšení hladiny růstového hormonu vaším hlavním cílem při sau
 ## Záměrné vystavování se teplu pro zlepšení nálady a pohody
 
 *Endorfinový systém* se aktivuje, když zažíváme *krátkodobý stres*
+
 *Dynorfinový systém*: boj s vystavením teplu nakonec aktivuje dráhy, které vedou ke zvýšení základní úrovně nálady a zvýšené úrovni štěstí a zlepšení nálady
 
 ## Regulace tělesného tepla pomocí hladkých povrchů kůže
