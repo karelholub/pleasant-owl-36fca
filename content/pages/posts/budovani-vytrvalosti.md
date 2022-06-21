@@ -1,9 +1,10 @@
 ---
 title: Jak budovat vytrvalost
 subtitle: Co vás donutí zastavit a jak ten moment oddálit
-excerpt:  Poznámky z podcastu Huberman Lab o tomm co ovlivňuje naši vytrvalost a jak jí rozvíjet a budovat
+excerpt: Podcast Huberman Lab patří k absolutní špičce v informacích zaměřených na výkon a zdraví. Andrew Huberman poskytuje spoustu užitečných
+tipů a věděcky podložených informací o tom, co ovlivňuje naši vytrvalost a jak jí rozvíjet a budovat.
 date: '2022-06-20'
-thumb_img_path: /images/endurance/endurance.jpg
+thumb_img_path: /images/trailrun.jpg
 thumb_img_alt: endurance
 hide_header: true
 seo:
@@ -37,12 +38,12 @@ layout: post
 
 Celý podcast najdete tady:
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IAnhFUUCq6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQLU7gpk_X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Klíčové poznatky
 
->"Důvodem, proč končíme, je málokdy to, že končí naše tělo; končí naše mysl." - <cite>Dr. Andrew Huberman?</cite>
+>"Důvodem, proč vzdáme, je málokdy to, že vzdá naše tělo; vzdá naše mysl."  <cite>Dr. Andrew Huberman?</cite>
 
 + Vytrvalostní cvičení zvyšuje schopnost mozku a těla pracovat po delší dobu.
 + Vysoce intenzivní a dlouhotrvající vytrvalostní trénink zlepšuje funkci mozku tím, že okysličuje mozek a dodává neuronům více živin.
