@@ -1,8 +1,7 @@
 ---
 title: Jak budovat vytrvalost
 subtitle: Co vás donutí zastavit a jak ten moment oddálit
-excerpt: Podcast Huberman Lab patří k absolutní špičce v informacích zaměřených na výkon a zdraví. Andrew Huberman poskytuje spoustu užitečných
-tipů a věděcky podložených informací o tom, co ovlivňuje naši vytrvalost a jak jí rozvíjet a budovat.
+excerpt: Podcast Huberman Lab patří k absolutní špičce v informacích zaměřených na výkon a zdraví. Andrew Huberman poskytuje spoustu užitečných tipů a věděcky podložených informací o tom, co ovlivňuje naši vytrvalost a jak jí rozvíjet a budovat.
 date: '2022-06-20'
 thumb_img_path: /images/trailrun.jpg
 thumb_img_alt: endurance
